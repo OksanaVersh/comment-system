@@ -1,0 +1,157 @@
+@import url('https://fonts.cdnfonts.com/css/nunito-sans');
+@import url('https://fonts.cdnfonts.com/css/Yeseva-One');
+.boby{
+margin: 0;
+font-family: Nunito Sans;
+}
+
+.header_arrow_1{
+display: flex;
+width: 203px;
+height: 1302px;
+margin-top: 35px;
+}
+
+.header_arrow_2{
+display: flex;
+align-items: center;
+justify-content: space-around;
+flex-shrink: 0;
+width: 487px;
+height: 61px;
+margin-left: 289px;
+margin-top: -1300px;
+}
+
+.header_arrow_3{
+display: flex;
+align-items: center;
+width: 487px;
+height: 61px;
+margin-left: 289px;
+margin-top: 35px;
+}
+
+.header_arrow_4{
+display: flex;
+align-items: center;
+width: 487px;
+height: 61px;
+margin-left: 289px;
+margin-top: 35px;
+}
+
+.header_arrow_5{
+display: flex;
+align-items: center;
+width: 487px;
+height: 61px;
+margin-left: 289px;
+margin-top: 35px;
+}
+
+.header_arrow_6{
+display: flex;
+width: 487px;
+height: 61px;
+margin-left: 824px;
+margin-top: -350px;
+}
+
+.header_arrow_7{
+display: flex;
+width: 487px;
+height: 61px;
+margin-left: 824px;
+margin-top: 35px;
+}
+
+.header_arrow_8{
+display: flex;
+width: 487px;
+height: 61px;
+margin-left: 824px;
+margin-top: 35px;
+}
+
+.header_arrow_9{
+display: flex;
+width: 487px;
+height: 61px;
+margin-left: 824px;
+margin-top: 35px;
+}
+
+.header_arrow_10{
+display: flex;
+width: 1022px;
+height: 168px;
+margin-left: 289px;
+margin-top: 35px;
+}
+
+.comment{
+display: flex;
+width: 1022px;
+height: 55px;
+margin-left: 145px;
+margin-top: 25px;
+}
+
+.comment_1{
+display: flex;
+width: 1007px;
+height: 203px;
+margin-left: 145px;
+margin-top: 120px;
+}
+
+.comment_2{
+display: flex;
+width: 916px;
+height: 159px;
+margin-left: 190px;
+margin-top: 80px;
+}
+
+.form-control_1{
+display: flex;
+width: 200px;
+height: 20px;
+margin-left: 380px;
+margin-top: 0px;
+font-size: 14px;
+font-style: normal;
+}
+
+.form-control_2{
+display: flex;
+width: 616px;
+height: 61px;
+margin-left: 380px;
+margin-top: 10px;
+font-size: 18px;
+font-style: normal;
+}
+
+.btn-primary{
+width: 150px;
+height: 61px;
+margin-left: 1020px;
+margin-top: -64px;
+font-size: 16px;
+color: grey;
+font-style: normal;
+text-align: center;
+border: none;
+text-decoration: none;
+display: flex;
+}
+
+.text-centr_1{
+font-style:italic;
+margin-left: 900px;
+margin-top: -520px;
+color: grey;
+font-size: 11px;
+}
